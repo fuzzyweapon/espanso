@@ -29,3 +29,6 @@ matches:
         params:
           cmd: "echo Hello from your shell"
 
+## user config
+
+secure_input_notification: false
