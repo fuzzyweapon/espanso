@@ -1,0 +1,8 @@
+# MUSH
+
+name: mush
+filter_title: "Atlantis|TextMate|Potato|MUSHClient|BeipMU"
+
+matches:
+  - trigger: "::pe"
+    replace: "p emma="
