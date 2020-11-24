@@ -1,0 +1,8 @@
+# kaomoji
+
+name: kaomoji
+parent: default
+
+matches:
+  - trigger: "::fliptable"
+    replace: "(╯°□°）╯︵ ┻━┻"
